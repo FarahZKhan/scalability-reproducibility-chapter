@@ -1,0 +1,514 @@
+{
+  "wasAssociatedWith": {
+    "_:id4": {
+      "prov:plan": "wf:main/clustal", 
+      "prov:activity": "run:125bd8c6-0b3a-40c5-bce2-e6966045d51d"
+    }, 
+    "_:id1": {
+      "prov:plan": "wf:main", 
+      "prov:agent": "engine:5e758c8d-0370-4b3c-8020-db83dc7bce08", 
+      "prov:activity": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026"
+    }, 
+    "_:id2": {
+      "prov:plan": "wf:main/workflow alignment", 
+      "prov:activity": "run:5b9bc219-cfe9-473f-9ad1-417c6848e65b"
+    }, 
+    "_:id22": {
+      "prov:plan": "wf:main/workflow alignment_2", 
+      "prov:activity": "run:3c8c240f-d99a-45bd-b0a1-eeefcd92d0f6"
+    }, 
+    "_:id16": {
+      "prov:plan": "wf:main/codeml", 
+      "prov:activity": "run:1fa99c85-ec7d-4eed-97da-29faead9a81b"
+    }, 
+    "_:id24": {
+      "prov:plan": "wf:main/clustal_2", 
+      "prov:activity": "run:c3776779-4ba6-41f2-9324-dfd6b38f636d"
+    }, 
+    "_:id10": {
+      "prov:plan": "wf:main/pal2nal", 
+      "prov:activity": "run:17ae0af6-d57f-45a4-a93d-f1e007fae3ee"
+    }, 
+    "_:id50": {
+      "prov:plan": "wf:main/pal2nal_3", 
+      "prov:activity": "run:726d38c6-75fc-40c0-8344-877423aa344a"
+    }, 
+    "_:id42": {
+      "prov:plan": "wf:main/workflow alignment_3", 
+      "prov:activity": "run:058c94a4-744a-4a42-b983-37ae47d1b39c"
+    }, 
+    "_:id36": {
+      "prov:plan": "wf:main/codeml_2", 
+      "prov:activity": "run:897bd2a1-b10b-4c5d-a590-da5351fac703"
+    }, 
+    "_:id56": {
+      "prov:plan": "wf:main/codeml_3", 
+      "prov:activity": "run:ab4cb610-8fc9-4ebf-a2f4-69b1b95a951b"
+    }, 
+    "_:id44": {
+      "prov:plan": "wf:main/clustal_3", 
+      "prov:activity": "run:2e93e810-56b6-4e6d-814d-2b453c8c489d"
+    }, 
+    "_:id30": {
+      "prov:plan": "wf:main/pal2nal_2", 
+      "prov:activity": "run:73a502c1-21a8-4359-b6fb-49426fe2098b"
+    }
+  }, 
+  "wasEndedBy": {
+    "_:id65": {
+      "prov:time": "2018-03-22T04:59:17.863724", 
+      "prov:ender": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026"
+    }, 
+    "_:id61": {
+      "prov:time": "2018-03-22T04:59:17.790120", 
+      "prov:ender": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:ab4cb610-8fc9-4ebf-a2f4-69b1b95a951b"
+    }, 
+    "_:id9": {
+      "prov:time": "2018-03-21T20:56:31.907155", 
+      "prov:ender": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:125bd8c6-0b3a-40c5-bce2-e6966045d51d"
+    }, 
+    "_:id15": {
+      "prov:time": "2018-03-21T20:56:34.334177", 
+      "prov:ender": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:17ae0af6-d57f-45a4-a93d-f1e007fae3ee"
+    }, 
+    "_:id21": {
+      "prov:time": "2018-03-22T02:33:04.724842", 
+      "prov:ender": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:1fa99c85-ec7d-4eed-97da-29faead9a81b"
+    }, 
+    "_:id49": {
+      "prov:time": "2018-03-22T04:29:06.038683", 
+      "prov:ender": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:2e93e810-56b6-4e6d-814d-2b453c8c489d"
+    }, 
+    "_:id29": {
+      "prov:time": "2018-03-22T02:33:08.239010", 
+      "prov:ender": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:c3776779-4ba6-41f2-9324-dfd6b38f636d"
+    }, 
+    "_:id35": {
+      "prov:time": "2018-03-22T02:33:10.063947", 
+      "prov:ender": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:73a502c1-21a8-4359-b6fb-49426fe2098b"
+    }, 
+    "_:id41": {
+      "prov:time": "2018-03-22T04:29:03.546011", 
+      "prov:ender": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:897bd2a1-b10b-4c5d-a590-da5351fac703"
+    }, 
+    "_:id55": {
+      "prov:time": "2018-03-22T04:29:07.808003", 
+      "prov:ender": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:726d38c6-75fc-40c0-8344-877423aa344a"
+    }
+  }, 
+  "used": {
+    "_:id6": {
+      "prov:role": "clustal/multi_sequence", 
+      "prov:time": "2018-03-21T20:56:29.681114", 
+      "prov:entity": "data:../Data/53/536e1785e59c0b8612b2f744321489a8e7fb00be", 
+      "prov:activity": "run:125bd8c6-0b3a-40c5-bce2-e6966045d51d"
+    }, 
+    "_:id13": {
+      "prov:role": "pal2nal/protein_alignment", 
+      "prov:time": "2018-03-21T20:56:32.248482", 
+      "prov:entity": "data:1be2b5921d5ce7fb4942668badff211b983683af", 
+      "prov:activity": "run:17ae0af6-d57f-45a4-a93d-f1e007fae3ee"
+    }, 
+    "_:id33": {
+      "prov:role": "pal2nal_2/protein_alignment", 
+      "prov:time": "2018-03-22T02:33:08.563288", 
+      "prov:entity": "data:1be2b5921d5ce7fb4942668badff211b983683af", 
+      "prov:activity": "run:73a502c1-21a8-4359-b6fb-49426fe2098b"
+    }, 
+    "_:id38": {
+      "prov:role": "codeml_2/tree", 
+      "prov:time": "2018-03-22T02:33:10.373184", 
+      "prov:entity": "data:96497c2504be7dcea9a0dfb3e2791693f13da15d", 
+      "prov:activity": "run:897bd2a1-b10b-4c5d-a590-da5351fac703"
+    }, 
+    "_:id32": {
+      "prov:role": "pal2nal_2/nucleotides", 
+      "prov:time": "2018-03-22T02:33:08.563006", 
+      "prov:entity": "data:../Data/9f/9fd4675cf87d172a85ca12e6d089de1474f86cf8", 
+      "prov:activity": "run:73a502c1-21a8-4359-b6fb-49426fe2098b"
+    }, 
+    "_:id59": {
+      "prov:role": "codeml_3/sequences", 
+      "prov:time": "2018-03-22T04:29:08.162905", 
+      "prov:entity": "data:e323062ff5f88947e2c441f74596a88acd1b462b", 
+      "prov:activity": "run:ab4cb610-8fc9-4ebf-a2f4-69b1b95a951b"
+    }, 
+    "_:id58": {
+      "prov:role": "codeml_3/tree", 
+      "prov:time": "2018-03-22T04:29:08.162552", 
+      "prov:entity": "data:b6de9049d570e23bb134752a1bb6bb81562e8406", 
+      "prov:activity": "run:ab4cb610-8fc9-4ebf-a2f4-69b1b95a951b"
+    }, 
+    "_:id39": {
+      "prov:role": "codeml_2/sequences", 
+      "prov:time": "2018-03-22T02:33:10.373535", 
+      "prov:entity": "data:e323062ff5f88947e2c441f74596a88acd1b462b", 
+      "prov:activity": "run:897bd2a1-b10b-4c5d-a590-da5351fac703"
+    }, 
+    "_:id26": {
+      "prov:role": "clustal_2/multi_sequence", 
+      "prov:time": "2018-03-22T02:33:05.655079", 
+      "prov:entity": "data:../Data/13/13babc41aa2530d0a5e5ec69809c8137198d167c", 
+      "prov:activity": "run:c3776779-4ba6-41f2-9324-dfd6b38f636d"
+    }, 
+    "_:id12": {
+      "prov:role": "pal2nal/nucleotides", 
+      "prov:time": "2018-03-21T20:56:32.248251", 
+      "prov:entity": "data:../Data/d1/d11c343ec6f5903759f187c2f0da2b4a43ee781f", 
+      "prov:activity": "run:17ae0af6-d57f-45a4-a93d-f1e007fae3ee"
+    }, 
+    "_:id46": {
+      "prov:role": "clustal_3/multi_sequence", 
+      "prov:time": "2018-03-22T04:29:04.461395", 
+      "prov:entity": "data:../Data/f6/f650cc2571ee262d625d2e6c8ec91ec9880fe61b", 
+      "prov:activity": "run:2e93e810-56b6-4e6d-814d-2b453c8c489d"
+    }, 
+    "_:id53": {
+      "prov:role": "pal2nal_3/protein_alignment", 
+      "prov:time": "2018-03-22T04:29:06.410800", 
+      "prov:entity": "data:1be2b5921d5ce7fb4942668badff211b983683af", 
+      "prov:activity": "run:726d38c6-75fc-40c0-8344-877423aa344a"
+    }, 
+    "_:id52": {
+      "prov:role": "pal2nal_3/nucleotides", 
+      "prov:time": "2018-03-22T04:29:06.410551", 
+      "prov:entity": "data:../Data/ab/abf9e9baa77c12775dd92352a8aa1ef3c52613f6", 
+      "prov:activity": "run:726d38c6-75fc-40c0-8344-877423aa344a"
+    }, 
+    "_:id19": {
+      "prov:role": "codeml/sequences", 
+      "prov:time": "2018-03-21T20:56:34.679481", 
+      "prov:entity": "data:e323062ff5f88947e2c441f74596a88acd1b462b", 
+      "prov:activity": "run:1fa99c85-ec7d-4eed-97da-29faead9a81b"
+    }, 
+    "_:id18": {
+      "prov:role": "codeml/tree", 
+      "prov:time": "2018-03-21T20:56:34.679253", 
+      "prov:entity": "data:c928c112abc3cea7acb2bd55576126e72bc152b4", 
+      "prov:activity": "run:1fa99c85-ec7d-4eed-97da-29faead9a81b"
+    }
+  }, 
+  "wasStartedBy": {
+    "_:id5": {
+      "prov:time": "2018-03-21T20:56:28.703049", 
+      "prov:starter": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:125bd8c6-0b3a-40c5-bce2-e6966045d51d"
+    }, 
+    "_:id3": {
+      "prov:time": "2018-03-21T20:56:28.694288", 
+      "prov:starter": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:5b9bc219-cfe9-473f-9ad1-417c6848e65b"
+    }, 
+    "_:id51": {
+      "prov:time": "2018-03-22T04:29:06.046898", 
+      "prov:starter": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:726d38c6-75fc-40c0-8344-877423aa344a"
+    }, 
+    "_:id17": {
+      "prov:time": "2018-03-21T20:56:34.338987", 
+      "prov:starter": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:1fa99c85-ec7d-4eed-97da-29faead9a81b"
+    }, 
+    "_:id23": {
+      "prov:time": "2018-03-22T02:33:04.734643", 
+      "prov:starter": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:3c8c240f-d99a-45bd-b0a1-eeefcd92d0f6"
+    }, 
+    "_:id11": {
+      "prov:time": "2018-03-21T20:56:31.915119", 
+      "prov:starter": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:17ae0af6-d57f-45a4-a93d-f1e007fae3ee"
+    }, 
+    "_:id25": {
+      "prov:time": "2018-03-22T02:33:04.745432", 
+      "prov:starter": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:c3776779-4ba6-41f2-9324-dfd6b38f636d"
+    }, 
+    "_:id37": {
+      "prov:time": "2018-03-22T02:33:10.068492", 
+      "prov:starter": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:897bd2a1-b10b-4c5d-a590-da5351fac703"
+    }, 
+    "_:id43": {
+      "prov:time": "2018-03-22T04:29:03.559063", 
+      "prov:starter": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:058c94a4-744a-4a42-b983-37ae47d1b39c"
+    }, 
+    "_:id57": {
+      "prov:time": "2018-03-22T04:29:07.812740", 
+      "prov:starter": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:ab4cb610-8fc9-4ebf-a2f4-69b1b95a951b"
+    }, 
+    "_:id31": {
+      "prov:time": "2018-03-22T02:33:08.246469", 
+      "prov:starter": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:73a502c1-21a8-4359-b6fb-49426fe2098b"
+    }, 
+    "_:id45": {
+      "prov:time": "2018-03-22T04:29:03.572201", 
+      "prov:starter": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026", 
+      "prov:activity": "run:2e93e810-56b6-4e6d-814d-2b453c8c489d"
+    }
+  }, 
+  "agent": {
+    "engine:5e758c8d-0370-4b3c-8020-db83dc7bce08": {
+      "prov:type": [
+        "wfprov:WorkflowEngine", 
+        "prov:SoftwareAgent"
+      ], 
+      "prov:label": "cwltool 1.0.20180321015651"
+    }
+  }, 
+  "entity": {
+    "data:d11c343ec6f5903759f187c2f0da2b4a43ee781f": {
+      "prov:type": "wfprov:Artifact"
+    }, 
+    "data:13babc41aa2530d0a5e5ec69809c8137198d167c": {
+      "prov:type": "wfprov:Artifact"
+    }, 
+    "data:0574eeac021531539d627dd7fe1c0151f025b0c9": {
+      "prov:type": "wfprov:SubProcessArtifact"
+    }, 
+    "data:abce4e9c2968797f0db28043c115572782848159": [
+      {
+        "prov:type": "wfprov:SubProcessArtifact"
+      }, 
+      {
+        "prov:type": "wfprov:Artifact"
+      }
+    ], 
+    "data:536e1785e59c0b8612b2f744321489a8e7fb00be": {
+      "prov:type": "wfprov:Artifact"
+    }, 
+    "wf:main/alignment": {
+      "prov:type": [
+        "prov:Plan", 
+        "wfdesc:Process"
+      ]
+    }, 
+    "data:372da5737334b0493239411674a02fca5909ec05": {
+      "prov:type": "wfprov:SubProcessArtifact"
+    }, 
+    "data:abf9e9baa77c12775dd92352a8aa1ef3c52613f6": {
+      "prov:type": "wfprov:Artifact"
+    }, 
+    "data:e2f6fb0c4ed4f428ccb30c91ccf82369e7fee67c": {
+      "prov:type": "wfprov:SubProcessArtifact"
+    }, 
+    "data:a18fea21aeca7c7b615062c7b0cb1516ced61b93": {
+      "prov:type": "wfprov:SubProcessArtifact"
+    }, 
+    "data:945e5c115e66772d0187b8e18b9083c2b6521c77": {
+      "prov:type": "wfprov:SubProcessArtifact"
+    }, 
+    "data:c928c112abc3cea7acb2bd55576126e72bc152b4": {
+      "prov:type": "wfprov:SubProcessArtifact"
+    }, 
+    "data:7d0696181cb7b65db9de0ac55c21d5074ebb1ee7": [
+      {
+        "prov:type": "wfprov:SubProcessArtifact"
+      }, 
+      {
+        "prov:type": "wfprov:Artifact"
+      }
+    ], 
+    "wf:main": {
+      "prov:type": [
+        "prov:Plan", 
+        "wfdesc:Process"
+      ], 
+      "wfdesc:hasSubProcess=": "['wf:main/alignment']", 
+      "prov:label": "Prospective provenance"
+    }, 
+    "data:f650cc2571ee262d625d2e6c8ec91ec9880fe61b": {
+      "prov:type": "wfprov:Artifact"
+    }, 
+    "data:dee1b558d35e62b123ae068bbc387c1fbcf96518": {
+      "prov:type": "wfprov:SubProcessArtifact"
+    }, 
+    "data:9fd4675cf87d172a85ca12e6d089de1474f86cf8": {
+      "prov:type": "wfprov:Artifact"
+    }, 
+    "data:b6de9049d570e23bb134752a1bb6bb81562e8406": {
+      "prov:type": "wfprov:SubProcessArtifact"
+    }, 
+    "data:96497c2504be7dcea9a0dfb3e2791693f13da15d": {
+      "prov:type": "wfprov:SubProcessArtifact"
+    }, 
+    "data:8cee2508585f2a88126d72af9aa71501d1b645bc": [
+      {
+        "prov:type": "wfprov:SubProcessArtifact"
+      }, 
+      {
+        "prov:type": "wfprov:Artifact"
+      }
+    ]
+  }, 
+  "prefix": {
+    "engine": "urn:uuid4:", 
+    "wf": "app://7a6a048b-4bb7-4b1f-9c99-b6c927732026/workflow/packed.cwl#", 
+    "run": "urn:uuid:", 
+    "wfprov": "http://purl.org/wf4ever/wfprov#", 
+    "input": "app://7a6a048b-4bb7-4b1f-9c99-b6c927732026/workflow/master-job.json#", 
+    "wfdesc": "http://purl.org/wf4ever/wfdesc#", 
+    "data": "urn:hash:sha1", 
+    "prov_1": "http://www.w3.org/ns/prov"
+  }, 
+  "activity": {
+    "run:897bd2a1-b10b-4c5d-a590-da5351fac703": {
+      "prov:type": "wfprov:ProcessRun", 
+      "prov:label": "Run of workflow/packed.cwl#main/codeml_2"
+    }, 
+    "run:1fa99c85-ec7d-4eed-97da-29faead9a81b": {
+      "prov:type": "wfprov:ProcessRun", 
+      "prov:label": "Run of workflow/packed.cwl#main/codeml"
+    }, 
+    "run:c3776779-4ba6-41f2-9324-dfd6b38f636d": {
+      "prov:type": "wfprov:ProcessRun", 
+      "prov:label": "Run of workflow/packed.cwl#main/clustal_2"
+    }, 
+    "run:17ae0af6-d57f-45a4-a93d-f1e007fae3ee": {
+      "prov:type": "wfprov:ProcessRun", 
+      "prov:label": "Run of workflow/packed.cwl#main/pal2nal"
+    }, 
+    "run:058c94a4-744a-4a42-b983-37ae47d1b39c": {
+      "prov:type": "wfprov:ProcessRun", 
+      "prov:label": "Run of workflow/packed.cwl#main/workflow alignment_3"
+    }, 
+    "run:73a502c1-21a8-4359-b6fb-49426fe2098b": {
+      "prov:type": "wfprov:ProcessRun", 
+      "prov:label": "Run of workflow/packed.cwl#main/pal2nal_2"
+    }, 
+    "run:5b9bc219-cfe9-473f-9ad1-417c6848e65b": {
+      "prov:type": "wfprov:ProcessRun", 
+      "prov:label": "Run of workflow/packed.cwl#main/workflow alignment"
+    }, 
+    "run:726d38c6-75fc-40c0-8344-877423aa344a": {
+      "prov:type": "wfprov:ProcessRun", 
+      "prov:label": "Run of workflow/packed.cwl#main/pal2nal_3"
+    }, 
+    "run:125bd8c6-0b3a-40c5-bce2-e6966045d51d": {
+      "prov:type": "wfprov:ProcessRun", 
+      "prov:label": "Run of workflow/packed.cwl#main/clustal"
+    }, 
+    "run:2e93e810-56b6-4e6d-814d-2b453c8c489d": {
+      "prov:type": "wfprov:ProcessRun", 
+      "prov:label": "Run of workflow/packed.cwl#main/clustal_3"
+    }, 
+    "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026": {
+      "prov:startTime": "2018-03-21T20:56:28.644721", 
+      "prov:type": "wfprov:WorkflowRun", 
+      "prov:label": "Run of workflow/packed.cwl#main"
+    }, 
+    "run:ab4cb610-8fc9-4ebf-a2f4-69b1b95a951b": {
+      "prov:type": "wfprov:ProcessRun", 
+      "prov:label": "Run of workflow/packed.cwl#main/codeml_3"
+    }, 
+    "run:3c8c240f-d99a-45bd-b0a1-eeefcd92d0f6": {
+      "prov:type": "wfprov:ProcessRun", 
+      "prov:label": "Run of workflow/packed.cwl#main/workflow alignment_2"
+    }
+  }, 
+  "wasGeneratedBy": {
+    "_:id64": {
+      "prov:role": "wf:main/results", 
+      "prov:time": "2018-03-22T04:59:17.799388", 
+      "prov:entity": "data:8cee2508585f2a88126d72af9aa71501d1b645bc", 
+      "prov:activity": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026"
+    }, 
+    "_:id7": {
+      "prov:role": "wf:main/clustal/guide_tree", 
+      "prov:time": "2018-03-21T20:56:31.906950", 
+      "prov:entity": "data:c928c112abc3cea7acb2bd55576126e72bc152b4", 
+      "prov:activity": "run:125bd8c6-0b3a-40c5-bce2-e6966045d51d"
+    }, 
+    "_:id60": {
+      "prov:role": "wf:main/codeml_3/results", 
+      "prov:time": "2018-03-22T04:59:17.790009", 
+      "prov:entity": "data:8cee2508585f2a88126d72af9aa71501d1b645bc", 
+      "prov:activity": "run:ab4cb610-8fc9-4ebf-a2f4-69b1b95a951b"
+    }, 
+    "_:id62": {
+      "prov:role": "wf:main/results", 
+      "prov:time": "2018-03-22T04:59:17.792364", 
+      "prov:entity": "data:abce4e9c2968797f0db28043c115572782848159", 
+      "prov:activity": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026"
+    }, 
+    "_:id63": {
+      "prov:role": "wf:main/results", 
+      "prov:time": "2018-03-22T04:59:17.796938", 
+      "prov:entity": "data:7d0696181cb7b65db9de0ac55c21d5074ebb1ee7", 
+      "prov:activity": "run:7a6a048b-4bb7-4b1f-9c99-b6c927732026"
+    }, 
+    "_:id8": {
+      "prov:role": "wf:main/clustal/alignment", 
+      "prov:time": "2018-03-21T20:56:31.907080", 
+      "prov:entity": "data:945e5c115e66772d0187b8e18b9083c2b6521c77", 
+      "prov:activity": "run:125bd8c6-0b3a-40c5-bce2-e6966045d51d"
+    }, 
+    "_:id54": {
+      "prov:role": "wf:main/pal2nal_3/alignment", 
+      "prov:time": "2018-03-22T04:29:07.807902", 
+      "prov:entity": "data:a18fea21aeca7c7b615062c7b0cb1516ced61b93", 
+      "prov:activity": "run:726d38c6-75fc-40c0-8344-877423aa344a"
+    }, 
+    "_:id20": {
+      "prov:role": "wf:main/codeml/results", 
+      "prov:time": "2018-03-22T02:33:04.724574", 
+      "prov:entity": "data:abce4e9c2968797f0db28043c115572782848159", 
+      "prov:activity": "run:1fa99c85-ec7d-4eed-97da-29faead9a81b"
+    }, 
+    "_:id14": {
+      "prov:role": "wf:main/pal2nal/alignment", 
+      "prov:time": "2018-03-21T20:56:34.334063", 
+      "prov:entity": "data:0574eeac021531539d627dd7fe1c0151f025b0c9", 
+      "prov:activity": "run:17ae0af6-d57f-45a4-a93d-f1e007fae3ee"
+    }, 
+    "_:id48": {
+      "prov:role": "wf:main/clustal_3/alignment", 
+      "prov:time": "2018-03-22T04:29:06.038613", 
+      "prov:entity": "data:e2f6fb0c4ed4f428ccb30c91ccf82369e7fee67c", 
+      "prov:activity": "run:2e93e810-56b6-4e6d-814d-2b453c8c489d"
+    }, 
+    "_:id27": {
+      "prov:role": "wf:main/clustal_2/guide_tree", 
+      "prov:time": "2018-03-22T02:33:08.238791", 
+      "prov:entity": "data:96497c2504be7dcea9a0dfb3e2791693f13da15d", 
+      "prov:activity": "run:c3776779-4ba6-41f2-9324-dfd6b38f636d"
+    }, 
+    "_:id28": {
+      "prov:role": "wf:main/clustal_2/alignment", 
+      "prov:time": "2018-03-22T02:33:08.238937", 
+      "prov:entity": "data:dee1b558d35e62b123ae068bbc387c1fbcf96518", 
+      "prov:activity": "run:c3776779-4ba6-41f2-9324-dfd6b38f636d"
+    }, 
+    "_:id40": {
+      "prov:role": "wf:main/codeml_2/results", 
+      "prov:time": "2018-03-22T04:29:03.545607", 
+      "prov:entity": "data:7d0696181cb7b65db9de0ac55c21d5074ebb1ee7", 
+      "prov:activity": "run:897bd2a1-b10b-4c5d-a590-da5351fac703"
+    }, 
+    "_:id34": {
+      "prov:role": "wf:main/pal2nal_2/alignment", 
+      "prov:time": "2018-03-22T02:33:10.063843", 
+      "prov:entity": "data:372da5737334b0493239411674a02fca5909ec05", 
+      "prov:activity": "run:73a502c1-21a8-4359-b6fb-49426fe2098b"
+    }, 
+    "_:id47": {
+      "prov:role": "wf:main/clustal_3/guide_tree", 
+      "prov:time": "2018-03-22T04:29:06.038481", 
+      "prov:entity": "data:b6de9049d570e23bb134752a1bb6bb81562e8406", 
+      "prov:activity": "run:2e93e810-56b6-4e6d-814d-2b453c8c489d"
+    }
+  }
+}
