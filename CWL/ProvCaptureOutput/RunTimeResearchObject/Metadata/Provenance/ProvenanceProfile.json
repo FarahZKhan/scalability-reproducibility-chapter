@@ -359,7 +359,7 @@
     "wf": "app://7a6a048b-4bb7-4b1f-9c99-b6c927732026/workflow/packed.cwl#", 
     "run": "urn:uuid:", 
     "wfprov": "http://purl.org/wf4ever/wfprov#", 
-    "input": "app://7a6a048b-4bb7-4b1f-9c99-b6c927732026/workflow/master-job.json#", 
+    "input": "app://7a6a048b-4bb7-4b1f-9c99-b6c927732026/workflow/primary-job.json#", 
     "wfdesc": "http://purl.org/wf4ever/wfdesc#", 
     "data": "urn:hash:sha1", 
     "prov_1": "http://www.w3.org/ns/prov"
