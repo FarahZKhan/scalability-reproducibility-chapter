@@ -1,0 +1,37 @@
+{
+    "@context": [
+        {"@base": "arcp://uuid,7a6a048b-4bb7-4b1f-9c99-b6c927732026/"},
+        "https://w3id.org/bundle/context"        
+    ], 
+    "@id": "/", 
+    "aggregates": [
+
+{"uri": "urn:uuid:7a6a048b-4bb7-4b1f-9c99-b6c927732026"},
+{"uri": "data/53/536e1785e59c0b8612b2f744321489a8e7fb00be"},
+{"uri": "data/8c/8cee2508585f2a88126d72af9aa71501d1b645bc"},
+{"uri": "data/13/13babc41aa2530d0a5e5ec69809c8137198d167c"},
+{"uri": "data/9f/9fd4675cf87d172a85ca12e6d089de1474f86cf8"},
+{"uri": "data/f6/f650cc2571ee262d625d2e6c8ec91ec9880fe61b"},
+{"uri": "data/d1/d11c343ec6f5903759f187c2f0da2b4a43ee781f"},
+{"uri": "data/7d/7d0696181cb7b65db9de0ac55c21d5074ebb1ee7"},
+{"uri": "data/ab/abce4e9c2968797f0db28043c115572782848159"},
+{"uri": "data/ab/abf9e9baa77c12775dd92352a8aa1ef3c52613f6"},
+{"uri": "metadata/provenance/ProvenanceProfile.json"},
+{"uri": "metadata/provenance/ProvNrepresentation.provn"},
+{"uri": "metadata/provenance/ProvenanceVisualGraph.png"},
+{"uri": "metadata/provenance/ProvenanceDotGraph.dot"},
+{"uri": "metadata/manifest.json"},
+{"uri": "snapshot/workflow_simple.cwl"},
+{"uri": "snapshot/pal2nal.cwl"},
+{"uri": "snapshot/nt.fa"},
+{"uri": "snapshot/workflow_smaller-job.yaml"},
+{"uri": "snapshot/clustalo.cwl"},
+{"uri": "snapshot/per_cluster_workflow.cwl"},
+{"uri": "snapshot/codeml.cwl"},
+{"uri": "snapshot/aa.fa"},
+{"uri": "workflow/packed.cwl"},
+{"uri": "workflow/results0-3.txt"},
+{"uri": "workflow/primary-job.json"}
+
+    ]
+}

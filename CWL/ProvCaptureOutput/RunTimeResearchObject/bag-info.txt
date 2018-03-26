@@ -1,0 +1,4 @@
+BagIt-Profile-Identifier: https://w3id.org/ro/bagit/profile
+External-Description: Run of workflow/packed.cwl#main
+Bagging-Date: 2018-03-21
+External-Identifier: urn:uuid:7a6a048b-4bb7-4b1f-9c99-b6c927732026
