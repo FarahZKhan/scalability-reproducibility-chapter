@@ -110,7 +110,7 @@
     "_:id6": {
       "prov:role": "clustal/multi_sequence", 
       "prov:time": "2018-03-21T20:56:29.681114", 
-      "prov:entity": "data:../Data/53/536e1785e59c0b8612b2f744321489a8e7fb00be", 
+      "prov:entity": "data:../data/53/536e1785e59c0b8612b2f744321489a8e7fb00be", 
       "prov:activity": "run:125bd8c6-0b3a-40c5-bce2-e6966045d51d"
     }, 
     "_:id13": {
@@ -134,7 +134,7 @@
     "_:id32": {
       "prov:role": "pal2nal_2/nucleotides", 
       "prov:time": "2018-03-22T02:33:08.563006", 
-      "prov:entity": "data:../Data/9f/9fd4675cf87d172a85ca12e6d089de1474f86cf8", 
+      "prov:entity": "data:../data/9f/9fd4675cf87d172a85ca12e6d089de1474f86cf8", 
       "prov:activity": "run:73a502c1-21a8-4359-b6fb-49426fe2098b"
     }, 
     "_:id59": {
@@ -158,19 +158,19 @@
     "_:id26": {
       "prov:role": "clustal_2/multi_sequence", 
       "prov:time": "2018-03-22T02:33:05.655079", 
-      "prov:entity": "data:../Data/13/13babc41aa2530d0a5e5ec69809c8137198d167c", 
+      "prov:entity": "data:../data/13/13babc41aa2530d0a5e5ec69809c8137198d167c", 
       "prov:activity": "run:c3776779-4ba6-41f2-9324-dfd6b38f636d"
     }, 
     "_:id12": {
       "prov:role": "pal2nal/nucleotides", 
       "prov:time": "2018-03-21T20:56:32.248251", 
-      "prov:entity": "data:../Data/d1/d11c343ec6f5903759f187c2f0da2b4a43ee781f", 
+      "prov:entity": "data:../data/d1/d11c343ec6f5903759f187c2f0da2b4a43ee781f", 
       "prov:activity": "run:17ae0af6-d57f-45a4-a93d-f1e007fae3ee"
     }, 
     "_:id46": {
       "prov:role": "clustal_3/multi_sequence", 
       "prov:time": "2018-03-22T04:29:04.461395", 
-      "prov:entity": "data:../Data/f6/f650cc2571ee262d625d2e6c8ec91ec9880fe61b", 
+      "prov:entity": "data:../data/f6/f650cc2571ee262d625d2e6c8ec91ec9880fe61b", 
       "prov:activity": "run:2e93e810-56b6-4e6d-814d-2b453c8c489d"
     }, 
     "_:id53": {
@@ -182,7 +182,7 @@
     "_:id52": {
       "prov:role": "pal2nal_3/nucleotides", 
       "prov:time": "2018-03-22T04:29:06.410551", 
-      "prov:entity": "data:../Data/ab/abf9e9baa77c12775dd92352a8aa1ef3c52613f6", 
+      "prov:entity": "data:../data/ab/abf9e9baa77c12775dd92352a8aa1ef3c52613f6", 
       "prov:activity": "run:726d38c6-75fc-40c0-8344-877423aa344a"
     }, 
     "_:id19": {
